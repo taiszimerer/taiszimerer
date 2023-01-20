@@ -1,8 +1,8 @@
 ### Oi!! Eu sou a Taís Zimerer 👋
 
 
-- 🔭 Hoje estou em transição de carreira para a área de tecnologia 
-- 🌱 Finalizando o curso de Desenvolvimento Full Stack da Labenu
+- 🔭 Hoje estou em transição de carreira para a área de tecnologia :)
+- 🌱 Finalizando o curso de Desenvolvimento Full Stack da Labenu com muito amor!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="tais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
