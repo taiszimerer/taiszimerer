@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estou em transição de carreira para a área de tecnologia :)
-- 🌱 Finalizando o curso de Desenvolvimento Full Stack da Labenu com muito amor!
+- 🌱 Finalizando o curso de Desenvolvimento Full Stack da Labenu com muito amor e muito entusiasmo para evoluir cada dia MAIS.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="tais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
