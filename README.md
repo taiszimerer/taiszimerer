@@ -1,7 +1,7 @@
-### Oi!! Eu sou a Taís Zimerer 👋
+### Olá! Eu sou a Taís Zimerer 👋
 
 
-- 🔭 Full Stack Developer
+- Developer
 
 <div style="display: inline_block"><br>
   <img align="center" alt="tais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
