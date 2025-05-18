@@ -1,7 +1,12 @@
 ### Olá! Eu sou a Taís Zimerer 👋
 
+Sou desenvolvedora com conhecimentos fullstack e 2 anos de experiência, atuando na criação de aplicações web completas: do banco de dados à interface final.
 
-- Developer
+Tenho foco principal em React.js e Next.js, trabalhando com Material UI, Tailwind, Formik, controle de estado e consumo de APIs REST. Já participei da estruturação de sites do zero, cuidando de rotas, layouts e integrações com o backend. Também atuo com .NET (C#) e Entity Framework para criação de APIs e modelagem de banco de dados. Estou em constante evolução nessa stack, buscando aprofundar minhas habilidades com responsabilidade e aprendizado contínuo.
+
+Concluí um bootcamp intensivo com +1.000 horas de formação, onde descobri minha paixão por desenvolvimento. Hoje curso Análise e Desenvolvimento de Sistemas para consolidar minha base técnica.
+
+Aprendi que um bom projeto vai além de funcionar: precisa ser bem escrito, leve para o usuário e fácil de manter. Por isso, me dedico a entregar soluções com qualidade e a crescer constantemente com cada experiência.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="tais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
